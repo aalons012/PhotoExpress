@@ -1,3 +1,7 @@
+// Made By Andy Alonso
+// COP 2662
+// 12/2/25
+
 package edu.alonso.photoexpress
 
 import android.content.ContentValues
